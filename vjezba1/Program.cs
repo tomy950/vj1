@@ -11,6 +11,7 @@ namespace vjezba1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Ovo je dodao suradnik");
         }
     }
 }
