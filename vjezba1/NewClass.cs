@@ -10,6 +10,7 @@ namespace vjezba1
     {
         static void MyMethod()
         {
+            Console.WriteLine("greskaa je ispravljena");
             // code to be executed
         }
 
